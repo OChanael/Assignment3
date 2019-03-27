@@ -1,6 +1,3 @@
-#Assignment3
-Assignment3
-
 Ori Chanael
 ID: 2270254
 
